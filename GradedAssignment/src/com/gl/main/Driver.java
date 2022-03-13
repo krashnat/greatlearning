@@ -4,7 +4,7 @@ import com.gl.departments.AdminDepartment;
 import com.gl.departments.HrDepartment;
 import com.gl.departments.TechDepartment;
 
-public class Main {
+public class Driver {
 
 	public static void main(String[] args) {
 
